@@ -1,0 +1,28 @@
+[
+  {
+    "NombreUsuario": "Christopher",
+    "password": "1234",
+    "Email": "christophermercado2022@liceocientifico.org",
+    "Roll": "Lider"
+    
+
+  },
+  {
+    "NombreUsuario": "Jorge",
+    "password": "1234",
+    "Email": "christophermercado2022@liceocientifico.org",
+    "Roll": "Desarrollador"
+  },
+  {
+    "NombreUsuario": "Laura",
+    "password": "1234",
+    "Email": "eldestructo986@gmail.com",
+    "Roll": "Desarrollador"
+  },
+  {
+    "NombreUsuario": "Oliver",
+    "password": "1234",
+    "Email": "eldestructo986@gmail.com",
+    "Roll": "Desarrollador"
+  }
+]

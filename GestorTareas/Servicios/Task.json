@@ -1,0 +1,39 @@
+[
+  {
+    "observers": [
+      {
+        "NombreUsuario": "Jorge",
+        "password": "1234",
+        "Email": "christophermercado2022@liceocientifico.org",
+        "Roll": "Desarrollador"
+      },
+      {
+        "NombreUsuario": "Jorge",
+        "password": "1234",
+        "Email": "christophermercado2022@liceocientifico.org",
+        "Roll": "Desarrollador"
+      }
+    ],
+    "TaskName": "Agregar boton",
+    "TaskDescription": "Debe agregar un boton en el menu",
+    "AssignedTo": "Jorge"
+  },
+  {
+    "observers": [],
+    "TaskName": "Editar menu",
+    "TaskDescription": "Debe editar el menu del index",
+    "AssignedTo": null
+  },
+  {
+    "observers": [],
+    "TaskName": "Eliminar boton",
+    "TaskDescription": "Debe eliminar el boton del index",
+    "AssignedTo": null
+  },
+  {
+    "observers": [],
+    "TaskName": "Agregar un boton",
+    "TaskDescription": "Debe agregar un boton",
+    "AssignedTo": null
+  }
+]
